@@ -2,13 +2,12 @@
 title: Byrokratia ohjeet
 description: Palvelukohtaiset byrokratiaohjeet
 published: 1
-date: 2023-04-17T09:14:03.211Z
+date: 2023-04-17T09:17:13.424Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
 ---
 
-# Palvelukohtaiset ohjeet
 Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä palvelun toiminnan varmistamiseen transition jälkeen.
 
 ## Terveydenhuolto
