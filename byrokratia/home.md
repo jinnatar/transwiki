@@ -1,25 +1,20 @@
 ---
-title: Vahvan tunnistautumisen palvelut
+title: Byrokratia ohjeet
 description: Palvelukohtaiset byrokratiaohjeet
 published: 1
-date: 2023-04-14T18:34:11.501Z
+date: 2023-04-17T09:14:03.211Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
 ---
 
-# Vahvan tunnistautumisen palvelukohtaiset ohjeet
-Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä seuraavassa muodossa:
+# Palvelukohtaiset ohjeet
+Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä palvelun toiminnan varmistamiseen transition jälkeen.
 
-## Palvelun nimi
+## Terveydenhuolto
+- [Terveystalo](/byrokratia/terveydenhuolto/terveystalo)
 
-### Ennen transitiota
-- Muutoksia, jotka kannattaa tehdä ennen nimen ja/tai henkilötunnuksen vaihtumista.
-- Sisältää esivalmistelua tai kokonaan etukäteen asian hoitamisen ohjeet.
-
-### Transition jälkeen
-- Muutoksia, jotka voit tehdä vasta nimen ja/tai henkiötunnuksen vaihduttua.
-- Myös mahdollisia ohjeita, miten tehdä muutos, vaikka et olisikaan tehnyt esivalmisteluita.
-
-## Lista palveluista:
+## Vahvan tunnistautumisen palvelut
 - [MobilePay](/byrokratia/vahvat/mobilepay)
+
+## Muut palvelut
