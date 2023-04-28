@@ -1,8 +1,8 @@
 ---
-title: Palvelukohtaiset byrokratia-ohjeet
-description: 
+title: Byrokratia
+description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-04-28T11:33:47.572Z
+date: 2023-04-28T11:34:49.552Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
