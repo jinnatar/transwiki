@@ -2,8 +2,8 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: 1
-date: 2023-04-14T18:42:38.815Z
-tags: byrokratia, transitio, dvv
+date: 2023-04-28T12:38:21.378Z
+tags: byrokratia, dvv, transitio
 editor: markdown
 dateCreated: 2023-04-14T17:31:40.618Z
 ---
@@ -27,4 +27,4 @@ DVV:n virallinen infopaketti: [Digi ja Väestötietovirasto - Tietoa sukupuolen 
 
 Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttävien palveluiden katkeaminen henkilötunnuksen vaihtuessa.
   - Yleistä tietoa muutoksesta, [Henkilötunnuksen muutos](/byrokratia/henkilotunnus) 
-  - Palvelukohtaista tietoa: [Vahvan tunnistautumisen palvelut](/byrokratia/vahvat)
+  - Palvelukohtaista tietoa: [Palvelukohtainen byrokratia](/byrokratia)
