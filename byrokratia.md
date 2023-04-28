@@ -2,7 +2,7 @@
 title: Byrokratia
 description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-04-28T12:24:13.664Z
+date: 2023-04-28T12:43:35.245Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
@@ -24,6 +24,8 @@ Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä pal
 
 ## Virastot
 - [Maanmittauslaitos](/byrokratia/virastot/maanmittauslaitos) (Kiinteistön lainhuutotiedot)
+- [Traficom](/byrokratia/virastot/traficom) (Ajokortti)
+
 
 ## Vahvan tunnistautumisen palvelut
 - [MobilePay](/byrokratia/vahvat/mobilepay)
