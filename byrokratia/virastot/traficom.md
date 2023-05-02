@@ -2,7 +2,7 @@
 title: Traficom
 description: 
 published: 1
-date: 2023-04-28T13:10:56.724Z
+date: 2023-05-02T13:55:32.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T13:10:56.724Z
@@ -19,9 +19,9 @@ Vaikka ajokortti ei olekkaan varsinainen henkilöllisyystodistus, on sen tietoih
 - Pelkän nimen muuttuessa tee hakemus uudesta ajokortista verkossa: https://www.traficom.fi/fi/asioi-kanssamme/tilaa-uusi-ajokortti
 - Henkilötunnuksen muuttuessa tee tilaus joko korjattuasi vahvan tunnistautumisen pankkipalveluidesi kautta, tai paikanpäällä Ajovarman toimipisteessä.
 - Tunnistautumiseksi toimistolla riittää vanha ajokortti tai henkilöllisyystodistus ja DVV:n päätöskirje.
-> Ajokortin kuva määräytyy uusimman Poliisin lupapalvelussa olevan kuvan mukaan, tee siis [henkilöllisyystodistuksen tilaus](/byrokratia/poliisi/henkkarit) ensin!
-{.is-warning}
 
+> Ajokortin kuva ja allekirjoitus määräytyvät uusimman Poliisin lupapalvelussa olevan kuvan ja allekirjoituksen mukaan, tee siis [henkilöllisyystodistuksen tilaus](/byrokratia/poliisi/henkkarit) ensin!
+{.is-warning}
 
 ## Verkkotunnukset
 Yksityishenkilön omistamat Fi-verkkotunnukset on sidottu henkilötunnukseen.
