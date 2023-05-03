@@ -2,7 +2,7 @@
 title: TransitioKanta
 description: 
 published: 1
-date: 2023-05-03T08:57:04.418Z
+date: 2023-05-03T09:40:04.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T17:56:48.451Z
@@ -19,5 +19,5 @@ TransitioKanta on vahvasti “beta” -vaiheessa ja sisältöä tuotetaan vahvim
 Sisältöä tuottavat pääasiassa trans-yhdistysten aktiivit, nojaten omiin ja muiden yhteisön jäsenien kokemuksiin. Teknisestä toteutuksesta vastaa [Jinna Kiisuo](https://tech.lgbt/@jinna).
 
 > Tietokannan editointioikeus on toistaiseksi jaossa vain kutsulla alan yhdistysten kautta.
-> Ota yhteyttä ylläpitoon, jos haluat mukaan jo "beta" -vaiheessa ja yhdistyksellänne ei vielä ole kontaktia: transitiokanta@nocturnal.fi
+> Ota yhteyttä ylläpitoon, jos haluat mukaan jo "beta" -vaiheessa ja yhdistyksellänne ei vielä ole kontaktia: yllapito@transitiokanta.fi
 {.is-info}
