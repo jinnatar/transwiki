@@ -1,9 +1,9 @@
 ---
-title: Toiminimi
+title: PRH - Patentti- ja Rekisterihallitus
 description: 
 published: 1
-date: 2023-05-03T10:59:03.386Z
-tags: byrokratia, prh
+date: 2023-05-03T11:47:36.082Z
+tags: byrokratia, prh, virastot
 editor: markdown
 dateCreated: 2023-05-03T10:59:03.386Z
 ---
