@@ -2,7 +2,7 @@
 title: Traficom
 description: 
 published: 1
-date: 2023-05-02T13:55:32.848Z
+date: 2023-05-03T07:59:04.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T13:10:56.724Z
@@ -33,4 +33,4 @@ Yksityishenkilön omistamat Fi-verkkotunnukset on sidottu henkilötunnukseen.
 - Verkkotunnusvälittäjäsi vastaa verkkotunnuksen yhteystietojen muutoksista.
 - Pelkkä nimenmuutos on helppo ja välittäjäsi voi suorittaa sen ilman vaikeampia toimenpitietä.
 - Henkilötunnuksen muutos käsitellään siirtona henkilöltä toiselle. Välittäjäsi käynnistää siirron Traficomilla ja siirtoavain toimitetaan sähköpostiisi jonka olet välittäjälle antanut. Toimitat siirtoavaimen välittäjälle (ei välttämättä sama välittäjä) jolloin he siirtävät verkkotunnuksen uudelle henkilötunnukselle.
-- Siirrosta ei normaalisti aiheudu kustannuksia. (Odottaa vahvistusta vaaditaanko uusintamaksu.)
+- Traficom ei veloita siirrosta maksua välittäjältä, mutta mikään ei estä välittäjää esimerkiksi vaatimaan samalla verkkotunnuksen maksullista uusimista tai erillistä palvelumaksua.
