@@ -2,8 +2,8 @@
 title: OmaPosti
 description: 
 published: 1
-date: 2023-05-03T11:14:39.861Z
-tags: byrokratia, vahvat, posti
+date: 2023-05-03T11:17:34.107Z
+tags: byrokratia, posti, vahvat
 editor: markdown
 dateCreated: 2023-05-03T11:14:39.861Z
 ---
@@ -15,7 +15,8 @@ Järjestelmä ei teoriassa anna toimittaa postia deaktivoidulle henkilötunnukse
 Tämänhetkisen tiedon mukaan Posti saa tiedon muuttuneesta henkilötunnuksesta automaattisesti, mutta lisäselvitykset ovat käynnissä ja vinkit tulevat siten muuttumaan.
 
 ### Ennen transitiota
-- On teoriassa mahdollista ehkäistä ongelmia irtisanomalla OmaPostista kaikki aikaisemmat sähköiset kirjetoimitukset jolloin varmistetaan kirjeiden vastaanotto paperisena. Tämän ei kuitenkaan pitäisi olla tarpeellinen toimenpide!
+- Nimen vaihtuessa ennakkotoimenpiteitä ei vaadita.
+- Henkilötunnuksen vaihtuessa on teoriassa mahdollista ehkäistä ongelmia irtisanomalla OmaPostista kaikki aikaisemmat sähköiset kirjetoimitukset jolloin varmistetaan kirjeiden vastaanotto paperisena. Tämän ei kuitenkaan pitäisi olla tarpeellinen toimenpide!
 - OmaPosti tilin lakkauttaminen on aiemmin aiheuttanut ongelmia uuden tilin luontiin. Toistaiseksi tilin poistoa ei suositella sillä vanhan tilin korjaaminen saattaa olla helpompaa.
 
 ### Transition jälkeen
