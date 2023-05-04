@@ -2,7 +2,7 @@
 title: Henkilöllisyystodistukset
 description: 
 published: 1
-date: 2023-05-04T15:02:21.691Z
+date: 2023-05-04T15:05:05.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T11:19:39.171Z
@@ -18,6 +18,8 @@ Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkil
 
 > Alle 28 vuotias mies voi saada henkilöllisyystodistuksen ilman yllämainittuja ehtoja korkeintaan 28 ikävuoteen saakka ja niitä ei myönnetä lainkaan 28-30 vuotiaalle tämänhetken tiedon mukaan. Väliaikainen matkustusoikeudeton henkilökortti on helpoin vaihtoehto jos et hae erillistä esteellisyyttä.
 {.is-danger}
+
+## Hakuprosessi
 
 ### Ennen transitiota
 - Et voi aloittaa tilausta ennen henkilötunnuksen vaihtumista koska hakemus lähtisi väärillä tiedoilla.
