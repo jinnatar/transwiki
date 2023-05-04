@@ -2,7 +2,7 @@
 title: Byrokratia
 description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-05-03T11:49:39.112Z
+date: 2023-05-04T11:45:24.630Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
@@ -20,6 +20,7 @@ Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä pal
 - [Kanta](/byrokratia/terveydenhuolto/kanta)
 
 ## Pankit
+- [Yleisohjeet pankeille](/byrokratia/pankit)
 - [OP](/byrokratia/pankit/op)
 
 ## Virastot
