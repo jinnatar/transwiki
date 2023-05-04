@@ -2,7 +2,7 @@
 title: Henkilöllisyystodistukset
 description: 
 published: 1
-date: 2023-05-04T14:59:25.294Z
+date: 2023-05-04T15:02:21.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T11:19:39.171Z
@@ -27,4 +27,4 @@ Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkil
 ### Transition jälkeen
 - Jos et jo hoitanut passikuvaa aiemmin, katso ohjeet yltä. Poliisi ei hoida kuvaustasi!
 - Voit varata verkossa ajan poliisiasemalle ilman vahvaa tunnistautumista.
-- Vaihtoehtoisesti voit suunnata lähimmälle poliisiasemalle ilman ajanvarausta, mutta varaa silloin aikaa odottamiseen paikan päällä. 
+	- Vaihtoehtoisesti voit suunnata lähimmälle poliisiasemalle ilman ajanvarausta, mutta varaa silloin aikaa odottamiseen paikan päällä. 
