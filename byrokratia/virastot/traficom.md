@@ -2,7 +2,7 @@
 title: Traficom
 description: 
 published: 1
-date: 2023-05-03T12:24:58.685Z
+date: 2023-05-04T13:16:10.331Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T13:10:56.724Z
@@ -43,4 +43,4 @@ Verkkotunnusvälittäjän tili on sidottu henkilötunnukseen ja nimeen. Muutokse
 - Varmuudenvuoksi kirjaa talteen välittäjätunnuksesi, esim. `C1234567`. Löydät sen [Fi-verkkotunnuspalvelusta](https://login.domain.fi/).
 
 ### Transition jälkeen
-- Nimen ja/tai henkilötunnuksen muuttuessa ota yhteyttä sähköpostitse osoitteeseen domain@traficom.fi, mainiten välittäjätunnuksesi.
+- Nimen ja/tai henkilötunnuksen muuttuessa ota yhteyttä sähköpostitse osoitteeseen domain@traficom.fi, mainiten välittäjätunnuksesi. On suositeltavaa käyttää Turvapostia osoitteessa https://securemail.traficom.fi/ jos liität mukaan henkilötunnuksesi.
