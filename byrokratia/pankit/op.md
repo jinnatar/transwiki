@@ -2,14 +2,14 @@
 title: OP
 description: 
 published: 1
-date: 2023-04-28T11:10:40.028Z
-tags: byrokratia, vahvat, pankki
+date: 2023-05-04T11:53:29.911Z
+tags: byrokratia, pankki, vahvat
 editor: markdown
 dateCreated: 2023-04-28T11:10:40.028Z
 ---
 
 ## OP
-Osuuspankki eli OP saa tiedon muuttuneesta henkilötunnuksesta väestötietojärjestelmästä. Valitettavasti tätä tietoa ei ilmeisesti hyödynnetä mitenkään ja ainoa vaihtoehto on tapaaminen konttorilla uuden [henkilöllisyystodistuksen](/byrokratia/poliisi/henkkarit) kera.
+Osuuspankki eli OP saa tiedon muuttuneesta henkilötunnuksesta väestötietojärjestelmästä (oman väitteensä mukaan). Valitettavasti tätä tietoa ei ilmeisesti hyödynnetä mitenkään ja ainoa vaihtoehto on tapaaminen konttorilla uuden [henkilöllisyystodistuksen](/byrokratia/poliisi/henkkarit) kera.
 
 ### Ennen transitiota
 - Harkitse konttoriasoinnin varaamista etukäteen sillä kaikki palvelupisteet eivät välttämättä palvele ilman ajanvarausta: https://www.op.fi/henkiloasiakkaat/asiakaspalvelu/ajanvaraus
