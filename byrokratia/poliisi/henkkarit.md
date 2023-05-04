@@ -2,14 +2,14 @@
 title: Henkilöllisyystodistukset
 description: 
 published: 1
-date: 2023-05-04T12:30:44.356Z
+date: 2023-05-04T14:59:25.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T11:19:39.171Z
 ---
 
 ## Henkilöllisyystodistukset
-Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkilökortti. Molempien tilaaminen samalla kertaa on hieman halvempaa kuin erikseen mutta nettitilaajan alennusta et pysty saamaan, tilaus on tehtävä henkilökohtaisesti poliisiasemalla.
+Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkilökortti. Molempien tilaaminen samalla kertaa on hieman halvempaa kuin erikseen mutta nettitilaajan alennusta et pysty saamaan. Sukupuolen vahvistamisen tai nimen vaihtamisen jälkeen passihakemus on tehtävä henkilökohtaisesti poliisiasemalla.
 
 ## Myöntämisen rajoitteet
 - Passia tai henkilökorttia myönnetään rajoitetusti alle 31 vuotiaille miehille maanpuolustusvelvollisuuden johdosta jos ei voida toteen näyttää esteettömyyttä sotilaspassilla, siviilipalvelutodistuksella, esteettömyystodistuksella tai kutsuntatodistuksella joka ilmaisee vapautuksen.
@@ -26,4 +26,5 @@ Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkil
 
 ### Transition jälkeen
 - Jos et jo hoitanut passikuvaa aiemmin, katso ohjeet yltä. Poliisi ei hoida kuvaustasi!
-- Et pysty varaamaan aikaa ilman vahvaa tunnistautumista. Sensijaan suuntaa lähimmälle poliisilaitokselle ja varaa aikaa odottamiseen.
+- Voit varata verkossa ajan poliisiasemalle ilman vahvaa tunnistautumista.
+- Vaihtoehtoisesti voit suunnata lähimmälle poliisiasemalle ilman ajanvarausta, mutta varaa silloin aikaa odottamiseen paikan päällä. 
