@@ -2,7 +2,7 @@
 title: Henkilöllisyystodistukset
 description: 
 published: 1
-date: 2023-05-04T12:29:19.502Z
+date: 2023-05-04T12:30:44.356Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T11:19:39.171Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-28T11:19:39.171Z
 Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkilökortti. Molempien tilaaminen samalla kertaa on hieman halvempaa kuin erikseen mutta nettitilaajan alennusta et pysty saamaan, tilaus on tehtävä henkilökohtaisesti poliisiasemalla.
 
 ## Myöntämisen rajoitteet
-- Passia tai henkilökorttia myönnetään rajoitetusti alle 30 vuotiaille miehille maanpuolustusvelvollisuuden johdosta jos ei voida toteen näyttää esteettömyyttä sotilaspassilla, siviilipalvelutodistuksella, esteettömyystodistuksella tai kutsuntatodistuksella joka ilmaisee vapautuksen.
+- Passia tai henkilökorttia myönnetään rajoitetusti alle 31 vuotiaille miehille maanpuolustusvelvollisuuden johdosta jos ei voida toteen näyttää esteettömyyttä sotilaspassilla, siviilipalvelutodistuksella, esteettömyystodistuksella tai kutsuntatodistuksella joka ilmaisee vapautuksen.
 - Virallista sukupuoltaan mieheksi vahvistavalle saatavilla on parhaiten erillisen esteettömyystodistus, jonka voi myöntää sotilasviranomainen. (Lisää tietoa tulossa.)
 - Poliisi voi harkinnanvaraisesti myöntää [matkustukseen kelpaamattoman väliaikaisen henkilökortin](https://poliisi.fi/nain-haet-henkilokorttia) joka mahdollistaa perus kansalaistoiminnan, kuten äänestämisen ja pankkitunnistuksen.
 
