@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: 1
-date: 2023-05-03T08:23:40.001Z
+date: 2023-05-04T12:54:02.887Z
 tags: byrokratia, dvv, transitio
 editor: markdown
 dateCreated: 2023-04-14T17:31:40.618Z
@@ -34,3 +34,10 @@ DVV:n virallinen infopaketti: [Digi ja Väestötietovirasto - Tietoa sukupuolen 
 Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttävien palveluiden katkeaminen henkilötunnuksen vaihtuessa.
   - Yleistä tietoa muutoksesta, [Henkilötunnuksen muutos](/byrokratia/henkilotunnus) 
   - Palvelukohtaista tietoa: [Palvelukohtainen byrokratia](/byrokratia)
+
+## Hakemuksen käsittely ja voimaantulo
+- Kun hakemuksesi on käsitelty ottaa DVV yhteyttä joko sähköpostitse tai puhelimitse ilmoittaakseen päätöksentekopäivän.
+- Henkilötunnuksesi vaihtuu päätöksentekopäivänä.
+- Saat ilmoituksen päätöksestä pyytämälläsi tavalla kirje ja/tai sähköpostina. Sähköpostit lähetetään turvapostina jonka liitteistä käy ilmi päätös ja otteesta väestötietojärjestelmästä uusi henkilötunnuksesi.
+> Turvapostin voi avata vain yhdellä laitteella 30 päivän kuluessa vastaanottamisesta. Avaa linkki vasta laitteelta josta saat helposti liitteet talteen!
+{.is-warning}
