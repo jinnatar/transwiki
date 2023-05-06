@@ -2,14 +2,14 @@
 title: Terveystalo
 description: 
 published: 1
-date: 2023-05-06T16:28:11.933Z
-tags: byrokratia, vahvat, terveydenhuolto
+date: 2023-05-06T16:28:45.840Z
+tags: byrokratia, terveydenhuolto, vahvat
 editor: markdown
 dateCreated: 2023-05-06T16:28:11.933Z
 ---
 
 ## Terveystalo
-Potilastietosi Terveystalolla ovat sidottuna [henkilötunnukseesi(/byrokratia/henkilotunnus). Tiedot voidaan siirtää uudelle henkilötunnukselle mutta se kannattaa ehdottomasti hoitaa kuntoon hyvissäajoin ennenkuin tarvitset hoitoa!
+Potilastietosi Terveystalolla ovat sidottuna [henkilötunnukseesi](/byrokratia/henkilotunnus). Tiedot voidaan siirtää uudelle henkilötunnukselle mutta se kannattaa ehdottomasti hoitaa kuntoon hyvissäajoin ennenkuin tarvitset hoitoa!
 
 > Potilastietojen sitominen uuteen käyttämättömään henkilötunnukseen on huomattavasti helpompaa kuin kahden henkilötunnuksen yhdistäminen. Tee korjaus ennenkuin käytät uutta henkilötunnusta millään tapaa Terveystalolla!
 {.is-warning}
