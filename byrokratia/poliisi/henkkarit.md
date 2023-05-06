@@ -2,7 +2,7 @@
 title: Henkilöllisyystodistukset
 description: 
 published: 1
-date: 2023-05-04T15:05:34.778Z
+date: 2023-05-06T16:56:16.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T11:19:39.171Z
@@ -21,6 +21,16 @@ Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkil
 
 ## Hakuprosessi
 
+### Mitkä dokumentit hakisin?
+Päätös ei ole yksielitteinen mutta tässä muutamia vinkkejä kustannusten ja nopeuden kannalta. Uusimmat hinnat löydät Poliisilta: https://poliisi.fi/maksutaulukko ja ohjeet toimitusajoista: https://poliisi.fi/passin-toimitus
+- Passi on hieman halvempi kuin henkilökortti mutta hankalampi koko. Passilla matkustat myös EU:n ulkopuolella, mutta henkilökortti mahtuu lompakkoon.
+- Pysyvän passin tai henkilökortin saaminen nopeutettuna on erittäin kallista, mutta hieman halvempaa kuin pysyvä + väliaikainen yhteensä ja vain päivän tai pari hitaampi saada.
+- Nopein ja melko huokea henkilöllisyystodistus saada käsiisi on väliaikainen henkilökortti. Saat sen samalla käynnillä, mutta voimassaoloaika on vain **yksi kuukausi**.
+- Express tilattuissa dokumenteissa on ongelmia:
+   1. Noudettava itse tietyiltä poliisiasemilta. Kirjoitushetkellä nämä ovat:
+   > Helsinki, Vantaa, Kouvola, Lahti, Tampere, Turku, Kuopio, Vaasa, Oulu ja Rovaniemi.
+   2. Tilauksia otetaan rajallinen määrä per päivä. Varsinkin kesälomien korvilla tämä voi olla haaste.
+
 ### Ennen transitiota
 - Et voi aloittaa tilausta ennen henkilötunnuksen vaihtumista koska hakemus lähtisi väärillä tiedoilla.
 - Sensijaan voit hoitaa valmiiksi kuntoon ajantasaisen passikuvan, kuvan on oltava vähintään 6kk sisällä otettu.
@@ -29,4 +39,5 @@ Poliisin myöntämät viralliset henkilöllisyystodistukset ovat passi ja henkil
 ### Transition jälkeen
 - Jos et jo hoitanut passikuvaa aiemmin, katso ohjeet yltä. Poliisi ei hoida kuvaustasi!
 - Voit varata verkossa ajan poliisiasemalle ilman vahvaa tunnistautumista.
-	- Vaihtoehtoisesti voit suunnata lähimmälle poliisiasemalle ilman ajanvarausta, mutta varaa silloin aikaa odottamiseen paikan päällä. 
+- Vaihtoehtoisesti voit suunnata lähimmälle poliisiasemalle ilman ajanvarausta, mutta varaa silloin aikaa odottamiseen paikan päällä. Tämä on silti aina nopeampi ratkaisu ja heti aamusta saapumalla täysin siedettävää.
+- Jos tarvitset pikaisesti henkilöllisyystodistuksen seuraaviin vaiheisiin, nopein saada on väliaikainen henkilökortti jonka saat mukaasi samalla käynnillä. Se on kuitenkin harkinnanvarainen, joten perustelut kuntoon valmiiksi! Lisää tietoja ylempänä osiossa henkilöllisyystodistusten eroista.
