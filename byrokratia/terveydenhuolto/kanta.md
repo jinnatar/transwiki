@@ -2,7 +2,7 @@
 title: Kanta
 description: 
 published: 1
-date: 2023-05-06T19:03:40.886Z
+date: 2023-05-08T13:22:26.249Z
 tags: byrokratia, terveydenhuolto
 editor: markdown
 dateCreated: 2023-05-06T17:22:02.572Z
@@ -13,8 +13,9 @@ Kanta pitää sisällään keskeisimmät potilastietosi ja ne ovat kaikki tieten
 
 ### Ennen transitiota
 - Ota varmuudenvuoksi kanta.fi -palvelusta talteen ainakin virallinen lista myönnetyistä lääkemääräyksistäsi. Se helpottaa muistia, kun myöhemmin pyydät korvaavat määräykset.
-- Jos olet määritellyt erillisen hoitotahdon, kopioi se talteen varmuudenvuoksi.
+- Jos olet määritellyt erillisen hoitotahdon tai yksityiskohtaisen elinluovutustahdon, kopioi se talteen varmuudenvuoksi.
 
 ### Transition jälkeen
 - Ota yhteyttä hoitavien yksiköiden osastosihteereihin ilmoittaen henkilötunnuksen muutoksesta. Saatat joutua painottamaan, että DVV:n mukaan vastuu potilastietojen siirrosta Kantaan uudelle henkilötunnukselle, on hoitavilla yksiköillä.
+- Kirjaa uudelleen elinluovutus- ja hoitotahtosi, vanhat eivät siirry uudelle henkilötunnukselle.
 - Lisää tietoa toivottavasti tulossa mahdollisista ongelmakohdista. Siirtymä hyvinvointialueisiin omalta osaltaan hankaloittaa tietojen päivitystä uusine järjestelmineen.
