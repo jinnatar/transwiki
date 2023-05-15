@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-15T19:24:40.070Z
+date: 2023-05-15T19:28:48.974Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -64,5 +64,6 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 
 ### Muita yleisiä palveluita
 - Puhelinliittymän omistajuus on sidottu henkilötunnukseen, mutta liittymän käyttäjä ei pääasiassa ole sidottu. Osa operaattoreista sallii henkilötunnuksen vaihdon asiakastiedoissa verkkopalvelussa mutta valtaosa vaatii yhteydenoton asiakaspalveluun.
+- Vuokrasopimus sisältää henkilötunnuksen ja on oman etusi mukaista hoitaa sen päivitys kuntoon. Varsinkin isommat toimijat kuten opiskelija-asuntosäätiöt saattavat vaatia uuden henkilöllisyystodistuksen näkemisen.
 - Postin OmaPosti palvelu vaatii manuaalisia muutoksia, mutta laskujen ei pitäisi mennä sivusuun vaan saapua paperipostina. Varmista että pystyt siis vastaanottamaan paperipostia! Lisää tietoa: [omaposti](/byrokratia/vahvat/omaposti)
 - Vakuutusyhtiöt yleensä sitovat vakuutukset erilliseen asiakastunnukseen joka on sidottu henkilötunnukseen. Hoida siis asiakaspalvelun kautta kytkentä uudelleen että olet varmasti katettuna! Toimijakohtaisia ohjeita: [Vahvan tunnistatumisen palvelut](/byrokratia#vahvan-tunnistautumisen-palvelut).
