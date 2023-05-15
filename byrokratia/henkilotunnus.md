@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-15T19:55:11.504Z
+date: 2023-05-15T19:58:51.463Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -72,3 +72,4 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Vuokrasopimus sisältää henkilötunnuksen ja on oman etusi mukaista hoitaa sen päivitys kuntoon. Varsinkin isommat toimijat kuten opiskelija-asuntosäätiöt saattavat vaatia uuden henkilöllisyystodistuksen näkemisen.
 - Postin OmaPosti palvelu vaatii manuaalisia muutoksia, mutta laskujen ei pitäisi mennä sivusuun vaan saapua paperipostina. Varmista että pystyt siis vastaanottamaan paperipostia! Lisää tietoa: [omaposti](/byrokratia/vahvat/omaposti)
 - Vakuutusyhtiöt yleensä sitovat vakuutukset erilliseen asiakastunnukseen joka on sidottu henkilötunnukseen. Hoida siis asiakaspalvelun kautta kytkentä uudelleen että olet varmasti katettuna! Toimijakohtaisia ohjeita: [Vahvan tunnistatumisen palvelut](/byrokratia#vahvan-tunnistautumisen-palvelut).
+- Joukkoliikenteen kausiliput sidotaan henkilötunnukseen. Jos siis omistat VR, Matkahuolto, HSL, Nysse, Valtti tai vastavan matkakortin, muista päivittää henkilötunnus tietoihisi, yleensä asiakaspalvelun kautta. 
