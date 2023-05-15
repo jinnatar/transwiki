@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-15T18:57:16.661Z
+date: 2023-05-15T19:24:40.070Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -63,5 +63,6 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Verkkotunnuksien yksityisomistajuus vaatii muutoksen: [Traficom](/byrokratia/virastot/traficom)
 
 ### Muita yleisiä palveluita
+- Puhelinliittymän omistajuus on sidottu henkilötunnukseen, mutta liittymän käyttäjä ei pääasiassa ole sidottu. Osa operaattoreista sallii henkilötunnuksen vaihdon asiakastiedoissa verkkopalvelussa mutta valtaosa vaatii yhteydenoton asiakaspalveluun.
 - Postin OmaPosti palvelu vaatii manuaalisia muutoksia, mutta laskujen ei pitäisi mennä sivusuun vaan saapua paperipostina. Varmista että pystyt siis vastaanottamaan paperipostia! Lisää tietoa: [omaposti](/byrokratia/vahvat/omaposti)
 - Vakuutusyhtiöt yleensä sitovat vakuutukset erilliseen asiakastunnukseen joka on sidottu henkilötunnukseen. Hoida siis asiakaspalvelun kautta kytkentä uudelleen että olet varmasti katettuna! Toimijakohtaisia ohjeita: [Vahvan tunnistatumisen palvelut](/byrokratia#vahvan-tunnistautumisen-palvelut).
