@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-15T19:35:02.910Z
+date: 2023-05-15T19:55:11.504Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -61,6 +61,7 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Yritysten ja yhteisöjen luottamusvirat siirtyvät Patentti ja Rekisterihallituksella automaatisesti ilman toimia: [Patentti ja Rekisterihallitus](/byrokratia/virastot/patenttijarekisterihallitus)
 - Jos omistat kiinteistöjä, esim omakotitalon, tee muutos [Maanmittauslaitokselle](/byrokratia/virastot/maanmittauslaitos).
 - Verkkotunnuksien yksityisomistajuus vaatii muutoksen: [Traficom](/byrokratia/virastot/traficom)
+- Ajoneuvotiedot Traficomilla sensijaan siirtyvät automaattisesti.
 
 ### Työnantaja
 - Jos saat palkkatuloa, ilmoita työnantajasi palkanlaskentaan uusi henkilötunnus. Veronumerosi ei muutu.
