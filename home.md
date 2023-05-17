@@ -2,7 +2,7 @@
 title: TransitioKanta
 description: 
 published: 1
-date: 2023-05-06T18:42:00.330Z
+date: 2023-05-17T12:35:29.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T17:56:48.451Z
@@ -13,7 +13,9 @@ dateCreated: 2023-04-14T17:56:48.451Z
 > -- [Sukupuolen Moninaisuuden Osaamiskeskus](https://sukupuolenosaamiskeskus.fi/transitio/)
 
 
-TransitioKanta on vahvasti “beta” -vaiheessa ja sisältöä tuotetaan vahvimmin liittyen sukupuolen vahvistamisen byrokratiaan. Kannattaa siis aloittaa sieltä: [Byrokratia - Sukupuolen vahvistaminen](byrokratia/sukupuolen-vahvistaminen). Löydät kaiken sisällön vasemman laidan valikosta.
+TransitioKanta on vahvasti “beta” -vaiheessa ja sisältöä tuotetaan vahvimmin liittyen sukupuolen vahvistamisen byrokratiaan. Kannattaa siis aloittaa sieltä: [Byrokratia - Sukupuolen vahvistaminen](/byrokratia/sukupuolen-vahvistaminen). Suurin osa byrokratiaa syntyy välillisesti henkilötunnuksesta, tarkista myös [henkilötunnuksen muutoksen muistilista](/byrokratia/henkilotunnus#muutoksen-muistilista) joka käy läpi yleisimmät vaikutukset yleistasolla.
+
+Löydät kaiken sisällön vasemman laidan valikosta.
 
 ## Kuka tästä vastaa?
 Sisältöä tuottavat pääasiassa trans-yhdistysten aktiivit, nojaten omiin ja muiden yhteisön jäsenien kokemuksiin. Teknisestä toteutuksesta vastaa <a rel="me" href="https://tech.lgbt/@jinna">Jinna Kiisuo</a>.
