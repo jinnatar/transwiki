@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-15T19:58:51.463Z
+date: 2023-05-17T12:52:10.156Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -63,9 +63,10 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Verkkotunnuksien yksityisomistajuus vaatii muutoksen: [Traficom](/byrokratia/virastot/traficom)
 - Ajoneuvotiedot Traficomilla sensijaan siirtyvät automaattisesti.
 
-### Työnantaja
+### Työelämä ja liitot
 - Jos saat palkkatuloa, ilmoita työnantajasi palkanlaskentaan uusi henkilötunnus. Veronumerosi ei muutu.
 - Yrittäjän tilanne on helpompi, kaikki Y-tunnukseen sidottu pysyy ennallaan ja henkilötunnuksesi kytkentä Y-tunnukseen siirtyy automaattisesti.
+- Jos kuulut työttömyyskassaan tai ammattiliittoon, päivitä heille asiakaspalvelun kautta uusi henkilötunnuksesi, näin varmistat työttömyysturvasi. Muista ilmoittaa muutos liiton kassaan erikseen sillä ne useimmiten ovat hieman erillään liitoista!
 
 ### Muita yleisiä palveluita
 - Puhelinliittymän omistajuus on sidottu henkilötunnukseen, mutta liittymän käyttäjä ei pääasiassa ole sidottu. Osa operaattoreista sallii henkilötunnuksen vaihdon asiakastiedoissa verkkopalvelussa mutta valtaosa vaatii yhteydenoton asiakaspalveluun.
