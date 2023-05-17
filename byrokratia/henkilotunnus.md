@@ -2,13 +2,13 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-17T12:53:11.850Z
+date: 2023-05-17T12:53:50.803Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
 ---
 
-# Henkilötunnus
+# Henkilötunnus ja sen muutokset
 > Henkilötunnus on yksilöimiskeino, joka yksilöi henkilöt vielä tarkemmin kuin nimi. Täysin samannimisiä ihmisiä on, mutta ei kahta, joilla olisi täysin sama henkilötunnus. Henkilötunnus on tarkoitettu pysyväksi.
 -- [Digi ja Väestötietovirasto](https://dvv.fi/henkilotunnus)
 
