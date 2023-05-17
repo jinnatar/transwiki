@@ -2,7 +2,7 @@
 title: Henkilötunnus
 description: 
 published: 1
-date: 2023-05-17T12:52:10.156Z
+date: 2023-05-17T12:53:11.850Z
 tags: byrokratia, transitio
 editor: markdown
 dateCreated: 2023-04-14T16:44:41.054Z
@@ -62,6 +62,7 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Jos omistat kiinteistöjä, esim omakotitalon, tee muutos [Maanmittauslaitokselle](/byrokratia/virastot/maanmittauslaitos).
 - Verkkotunnuksien yksityisomistajuus vaatii muutoksen: [Traficom](/byrokratia/virastot/traficom)
 - Ajoneuvotiedot Traficomilla sensijaan siirtyvät automaattisesti.
+- Kelan asiakkuustiedot siirtyvät automaattisesti, mutta tarkistamista suositellaan https://oma.kela.fi palvelussa.
 
 ### Työelämä ja liitot
 - Jos saat palkkatuloa, ilmoita työnantajasi palkanlaskentaan uusi henkilötunnus. Veronumerosi ei muutu.
