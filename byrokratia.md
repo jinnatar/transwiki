@@ -2,7 +2,7 @@
 title: Byrokratia
 description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-05-04T11:45:24.630Z
+date: 2023-05-23T11:46:27.165Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
@@ -21,7 +21,10 @@ Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä pal
 
 ## Pankit
 - [Yleisohjeet pankeille](/byrokratia/pankit)
+- [Nordea](/byrokratia/pankit/nordea)
 - [OP](/byrokratia/pankit/op)
+- [S-Pankki](/byrokratia/pankit/s-pankki)
+
 
 ## Virastot
 - [MML - Maanmittauslaitos](/byrokratia/virastot/maanmittauslaitos) (Kiinteistön lainhuutotiedot)
