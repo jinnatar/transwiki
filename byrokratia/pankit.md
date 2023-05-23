@@ -2,7 +2,7 @@
 title: Pankit
 description: Yleistietoa pankkipalveluista
 published: 1
-date: 2023-05-06T18:33:33.659Z
+date: 2023-05-23T11:45:20.765Z
 tags: byrokratia, pankki, vahvat
 editor: markdown
 dateCreated: 2023-04-28T11:41:21.433Z
@@ -16,3 +16,4 @@ Pankit saavat tiedon henkilötunnuksen muutoksesta väestötietojärjestelmäst�
 
 ### Transition jälkeen
 - Järjestä pankkitapaaminen konttorillasi henkilöllisyyden vahvistamiseksi. Varaa mukaan uusi sekä vanha [henkilöllisyystodistus](/byrokratia/poliisi/henkkarit).
+- Prosessi ja sen kesto vaihtelee huomattavasti riippuen pankista. Tarkista oman pankkisi ohjeet [Pankkien listasta](/t/pankki).
