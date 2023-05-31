@@ -2,7 +2,7 @@
 title: Byrokratia
 description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-05-23T11:46:27.165Z
+date: 2023-05-31T18:22:48.165Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
@@ -36,6 +36,7 @@ Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä pal
 - [MobilePay](/byrokratia/vahvat/mobilepay)
 - [OmaPosti](/byrokratia/vahvat/omaposti)
 - [Pohjola](/byrokratia/vahvat/pohjola)
+- [Elisa](/byrokratia/vahvat/elisa)
 
 ## Muut palvelut
 - [Motonet kanta-asiakkuus](/byrokratia/muut/motonet)
