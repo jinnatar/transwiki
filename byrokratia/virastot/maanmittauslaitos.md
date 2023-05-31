@@ -2,7 +2,7 @@
 title: Maanmittauslaitos
 description: 
 published: 1
-date: 2023-04-28T12:29:41.180Z
+date: 2023-05-31T18:01:40.362Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-28T12:29:41.180Z
@@ -17,4 +17,4 @@ MML vastaa kiinteistöjen rekisteritiedoista. Yleisin tarvittava muutos on lainh
 ### Transition jälkeen
 - Nimen ja/tai henkilötunnuksen muutos lainhuutotodistukselle onnistuu pyytämällä sitä Maanmittauslaitoksen kirjaamosta: kirjaamisasiat@maanmittauslaitos.fi
 - Voit myös lähettää yhteydenoton turvapostina osoitteessa https://turvaviesti.maanmittauslaitos.fi/.
-- MLL näkee muutokset väestötietojärjestelmästä joten vahvistuksen pitäisi olla helppoa, mutta muutos vaatii silti erillisen pyynnön.
+- MLL näkee muutokset väestötietojärjestelmästä joten vahvistuksen pitäisi olla helppoa, ja saattaa tapahtua myös automaattisesti tietyn ajan kuluessa.
