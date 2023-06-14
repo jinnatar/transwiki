@@ -2,7 +2,7 @@
 title: HSL
 description: Helsingin seudun liikenne
 published: 1
-date: 2023-06-14T09:44:13.182Z
+date: 2023-06-14T09:47:05.343Z
 tags: byrokratia, joukkoliikenne
 editor: markdown
 dateCreated: 2023-06-14T09:22:30.660Z
@@ -16,13 +16,15 @@ HSL:n kanta on, että asiakkaalla pitää olla voimassa oleva lippu joukkoliiken
 
 ### Ennen transitiota
 
--   Tarkista, onko sinulla voimassa olevaa kausilippua ja milloin se päättyy. Voimassa oleva kausilippu nimittäin katoaa sovelluksesta, kun henkilötunnus muuttuu HSL:n järjestelmään.
+-   Tarkista, onko sinulla voimassa olevaa kausilippua ja milloin se päättyy.
 -   Jos sinulla on mobiilisovelluksessa jatkuva tilaus, varaudu perumaan se ja aloittamaan uusi henkilötunnuksen muutoksen yhteydessä. Muista ottaa tämä puheeksi HSL:n asiakaspalvelussa.
+> Voimassa oleva kausilippu ja jatkuva tilaus katoaa sovelluksesta, kun henkilötunnus muuttuu HSL:n järjestelmään.{.is-danger}
 -   Varaudu asioimaan HSL:n asiakaspalvelupisteellä, jos käytössäsi on fyysinen matkakortti. Muuten voit asioida myös puhelimitse.
 
 ### Transition jälkeen
 
--   Kun matkustat joukkoliikenteellä ennen kuin henkilötunnuksesi on muuttunut HSL:n järjestelmään, kanna mukanasi myös vanhaa henkilöllisyystodistustasi tai DVV:n päätöstä ja otetta henkilötunnuksen muutoksesta. HSL:n tarkastaja näkee lipuntarkastuksen yhteydessä asiakastietoihisi/matkakorttiisi tallennetun henkilöllisyystunnuksesi ja päätellessään sen kuuluvan jollekin toiselle kuin sinulle tarkastaja saattaa pyytää sinua näyttämään henkilöllisyystodistuksesi.
+-   Kun matkustat joukkoliikenteellä ennen kuin henkilötunnuksesi on muuttunut HSL:n järjestelmään, kanna mukanasi myös vanhaa henkilöllisyystodistustasi tai DVV:n päätöstä ja otetta henkilötunnuksen muutoksesta. 
+> HSL:n tarkastaja näkee lipuntarkastuksen yhteydessä asiakastietoihisi/matkakorttiisi tallennetun henkilöllisyystunnuksesi ja päätellessään sen kuuluvan jollekin toiselle kuin sinulle tarkastaja saattaa pyytää sinua näyttämään henkilöllisyystodistuksesi. {.is-danger}
 -   Jos sinulla on fyysinen matkakortti ja haluat käyttää sitä yhä, asioi HSL:n asiakaspalvelupisteellä. Huomaa, että jono saattaa olla hyvinkin pitkä, koska asiakaspalvelupisteitä ei ole monta. Sinulle tehdään asiakaspalvelupisteellä uusi matkakortti, jolle on mahdollista myös siirtää vanhalta matkakortilta sille ladattu arvo. Voimassa olevan kauden siirtämisestä ei ole varmuutta.
 -   HSL saa uuden henkilötunnuksesi automaattisesti DVV:ltä ja päivittää sen tietoihisi. Päivittämisen ajankohdasta ei ole varmuutta ja se saattaa tapahtua jopa neljä viikkoa DVV:n päätöksen jälkeen. Niin ollen pohdi, haluatko ilmoittaa muutoksesta HSL:lle itse jo aikaisemmin.
 -   Mobiilisovelluksella ostettu voimassa oleva kausilippu ja jatkuva tilaus katoavat sovelluksesta henkilötunnuksen muutoksen yhteydessä. HSL ei kuitenkaan peru lippua tai tilausta automaattisesti, vaan sinun pitää olla siitä joka tapauksessa yhteydessä HSL:ään. Koska jatkuva tilaus jää voimaan vanhalle henkilötunnukselle, tekee se uuden jatkuvan tilauksen ostamisesta mahdotonta niin kauan, kunnes kyseinen lippu on peruttu.
