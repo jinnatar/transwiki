@@ -2,7 +2,7 @@
 title: Byrokratia
 description: Palvelukohtaiset byrokratia-ohjeet
 published: 1
-date: 2023-05-31T18:22:48.165Z
+date: 2023-06-14T09:23:49.085Z
 tags: byrokratia, transitio, vahvat
 editor: markdown
 dateCreated: 2023-04-14T17:46:02.197Z
@@ -40,3 +40,4 @@ Jokaisella palvelulla on oma pieni sivunsa, joka listaa byrokratia-vinkkejä pal
 
 ## Muut palvelut
 - [Motonet kanta-asiakkuus](/byrokratia/muut/motonet)
+- [HSL|HRT](/byrokratia/muut/HSL)
