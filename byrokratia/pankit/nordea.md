@@ -2,7 +2,7 @@
 title: Nordea
 description: 
 published: 1
-date: 2023-05-31T17:59:13.747Z
+date: 2023-09-06T09:52:52.066Z
 tags: byrokratia, pankki, vahvat
 editor: markdown
 dateCreated: 2023-05-23T12:23:08.368Z
@@ -24,4 +24,5 @@ Nordean kohdalla lisähaasteen muodostaa palveluiden siirron hitaus. Siirrossa s
 - Huomaat yhdistelyn alkamisen siitä, että verkkopankista alkaa putoamaan eri toimintoja ja et näe esim. kaikkia tilejä ja lainoja. Yhdistelyprosessin kesto voi olla ihan mitä vain muutaman päivän ja parin viikonkin välillä.
 - Yhdistelyprosessin aikana maksukortit toimivat normaalisti vaikka verkkopankissa ei näkyisikään tilejä ja kortteja, mutta laskujen maksaminen verkossa ei onnistu "puuttuvien" tilien takia.
 - Vaikka vahva tunnistautuminen toimisikin taas, niin verkkopankista saattaa silti puuttua joitain tietoja (esim. jotkin tilit ja sijoitusrahastot). Jos tietoja ei näy parinkaan päivän kuluttua, niin kannattaa soittaa asiakaspalveluun ja varmistaa, missä mennään.
+- Koska maksukortit eivät muutu, tämä voi aiheuttaa ongelmia joidenkin korttimaksua käyttävien palvelujen kanssa (esim. HSL-sovellus, MobilePay). Käytännössä vanhan hetun aikana myönnetyillä korteilla maksut voivat epäonnistua eikä niiden lisääminen maksutavaksi onnistu. Tämä johtuu siitä, että kortti on edelleen sidottu vanhaan hetuun Luottokunnan järjestelmissä. Tilanteen saa korjattua ainoastaan tilaamalla uuden maksukortin.
 - Rahastosalkun uudelleenluonti ja yhdistely voi viedä pitkään vaikka muuten verkkopankki toimisikin. Huomaa myös, että rahastojen hankintahinnat eivät siirry uuteen salkkuun vaan nämä pitää katsoa vanhasta raportista (tai mielellään ottaa ylös jo ennen kuin tietojen yhdistely aloitetaan). Hankintahinnan pitää olla tiedossa verottajaa varten, jos myöhemmin myyt rahasto-osuuksia.
