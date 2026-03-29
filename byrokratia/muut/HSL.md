@@ -2,7 +2,7 @@
 title: HSL
 description: Helsingin seudun liikenne
 published: true
-date: 2026-03-29T15:16:43.205Z
+date: 2026-03-29T15:16:54.045Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-29T10:48:44.257Z
