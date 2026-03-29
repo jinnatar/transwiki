@@ -1,11 +1,11 @@
 ---
 title: TransitioKanta
 description: 
-published: 1
-date: 2025-01-08T07:26:34.624Z
+published: true
+date: 2026-03-29T15:01:49.016Z
 tags: 
 editor: markdown
-dateCreated: 2023-04-14T17:56:48.451Z
+dateCreated: 2026-03-29T10:48:22.185Z
 ---
 
 # TransitioKanta auttaa transition käytännön haasteissa
@@ -18,7 +18,7 @@ TransitioKanta on vahvasti “beta” -vaiheessa ja sisältöä tuotetaan vahvim
 Löydät kaiken sisällön vasemman laidan valikosta.
 
 ## Kuka tästä vastaa?
-Sisältöä tuottavat pääasiassa trans-yhdistysten aktiivit, nojaten omiin ja muiden yhteisön jäsenien kokemuksiin. Teknisestä toteutuksesta vastaa <a rel="me" href="https://gts.laalaa.land/@jinna">Jinna Kiisuo</a>.
+Sisältöä tuottavat pääasiassa trans-yhdistysten aktiivit, nojaten omiin ja muiden yhteisön jäsenien kokemuksiin. Teknisestä toteutuksesta vastaa <a rel="me" href="https://gts.laalaa.land/@jinna">Jinna</a>.
 
 
 > Tietokannan editointioikeus on toistaiseksi jaossa vain kutsulla alan yhdistysten kautta.
