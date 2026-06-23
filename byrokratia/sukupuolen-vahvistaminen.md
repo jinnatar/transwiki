@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: true
-date: 2026-06-23T11:29:19.717Z
+date: 2026-06-23T12:05:55.090Z
 tags: byrokratia, transitio, dvv
 editor: markdown
 dateCreated: 2026-03-29T10:48:37.034Z
@@ -22,8 +22,24 @@ Ajantasaiset kriteerit löydät aina sivulta [Digi ja Väestötietovirasto - Suk
 - Täysi-ikäisyys ei ole koko totuus, voit aloittaa hakuprosessin jo 6kk ennen täysi-ikäisyyttä.
 - Selvityksen muodolle ei tiedettävästi ole arviointikriteerejä, joten hyvinkin lyhyt selvitys toiseen sukupuoleen kuulumisesta on täysin validi. Esimerkiksi "Koen kuuluvani hakemaani sukupuoleen."
 
-## Hakemuksen vahvistaminen
-Hakemus tulee vahvistaa aikaisintaan 31 vuorokauden kuluttua ja viimeistään 6kk kuluttua ensimmäisestä hakemuksesta. Vahvistaminen aloitetaan erillisellä lomakkeella DVV:n nettisivuilla: https://dvv.fi/sukupuolen-vahvistaminen
+## Sukupuolen vahvistamisen vaiheet
+
+### Hakemuksen tekeminen (1. vaihe)
+
+Sukupuolen vahvistamisprosessin aloittamiseksi, täytä DVV:n hakemus: https://lomakkeet.dvv.fi/lomakkeet/6762/lomakkeet.html
+
+Hakemus ei ole sitova, vaan alustava toimenpide prosessin aloittamiseksi. Vasta 31 vuorokauden kuluttua hakemuksen tekemisestä voi sen vahvistaa, ja vasta sitten DVV määrittelee päivämäärän henkilötunnuksen vaihtumiselle.
+
+### Odotusaikana
+
+Koska henkilötunnuksen vaihtumiseen liittyvään byrokratiaan voi kulua jonkin aikaa, kannattaa siihen valmistautua:
+- Osta apteekista tarvitsemiasi reseptilääkkeitä, jotta ne eivät lopu kesken prosessin aikana (reseptit vanhalla hetulla eivät toimi hetun vaihtamisen jälkeen). 
+- Käy passikuvassa, jotta saat uuden henkilöllisyystodistuksesi mahdollisimman pian. Kuvaamo lähettää kuvan poliisille ja saamaasi kuvatunnusta voidaan käyttää henkilöllisyystodistushakemuksissa puolen vuoden ajan.
+- Maksa pian erääntyvät laskut ja vuokrat sekä nosta tarpeeksi käteistä siltä varalta, jos pankkipalveluissa on tilapäisiä ongelmia henkilötunnuksen vaihtumisen yhteydessä.
+
+### Hakemuksen vahvistaminen (2. vaihe)
+
+Hakemus tulee vahvistaa aikaisintaan 31 vuorokauden kuluttua ja viimeistään 6kk kuluttua ensimmäisestä hakemuksesta. Vahvistaminen aloitetaan erillisellä lomakkeella DVV:n nettisivuilla: https://lomakkeet.dvv.fi/lomakkeet/6790/lomakkeet.html
 
 > Laki määrittelee alarajaksi 30 vuorokautta mutta johtuen virallisen laskentatavan kiemuroista todellinen raja on 31 vuorokautta. Liian aikaisin tehtyä vahvistusta ei voida käsitellä ja vahvistus tulee tehdä uudelleen.
 {.is-danger}
