@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: true
-date: 2026-06-23T12:32:20.227Z
+date: 2026-06-23T12:45:34.803Z
 tags: byrokratia, transitio, dvv
 editor: markdown
 dateCreated: 2026-03-29T10:48:37.034Z
@@ -50,6 +50,8 @@ Hakemus tulee vahvistaa aikaisintaan 31 vuorokauden kuluttua ja viimeistään 6k
 Halutessasi voit vaihtaa etunimesi sukupuolen vahvistamisen yhteydessä. Tässä tapauksessa nimen vaihtaminen on ilmaista, muissa tilanteissa se on maksullista. Nimen muuttaminen tehdään erillisellä DVV:n lomakkeella: https://lomakkeet.dvv.fi/lomakkeet/6821/lomake.html
 
 Muista merkata lomakkeeseen, että sinulla on vireillä oleva sukupuolenvahvistamisasia.
+
+Lisää tietoa: [Nimenmuutos](/byrokratia/nimenmuutos)
 
 ### Hakemuksen käsittely ja voimaantulo
 - Kun hakemuksesi on käsitelty ottaa DVV yhteyttä joko sähköpostitse tai puhelimitse ilmoittaakseen päätöksentekopäivän.
