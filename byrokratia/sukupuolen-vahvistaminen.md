@@ -1,11 +1,11 @@
 ---
 title: Sukupuolen vahvistaminen
 description: 
-published: 1
-date: 2023-05-04T12:54:02.887Z
-tags: byrokratia, dvv, transitio
+published: true
+date: 2026-06-23T11:29:19.717Z
+tags: byrokratia, transitio, dvv
 editor: markdown
-dateCreated: 2023-04-14T17:31:40.618Z
+dateCreated: 2026-03-29T10:48:37.034Z
 ---
 
 > Sukupuolen vahvistaminen tarkoittaa sitä, että väestötietojärjestelmään merkitty sukupuolesi korjataan vastaamaan sukupuoli-identiteettiäsi.
@@ -41,3 +41,10 @@ Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttäv
 - Saat ilmoituksen päätöksestä pyytämälläsi tavalla kirje ja/tai sähköpostina. Sähköpostit lähetetään turvapostina jonka liitteistä käy ilmi päätös ja otteesta väestötietojärjestelmästä uusi henkilötunnuksesi.
 > Turvapostin voi avata vain yhdellä laitteella 30 päivän kuluessa vastaanottamisesta. Avaa linkki vasta laitteelta josta saat helposti liitteet talteen!
 {.is-warning}
+
+# Aiheesta muualla
+
+- [DVV: Sukupuolen vahvistaminen](https://dvv.fi/sukupuolen-vahvistaminen) (yleistieto)
+- [DVV: Sukupuolen vahvistaminen Suomessa](https://dvv.fi/sukupuolen-vahvistaminen-suomessa) (kohta-kohdalta ohjeet)
+- [Trasek: Sukupuolen vahvistaminen](https://trasek.fi/perustietoa/sukupuolenkorjaus/sukupuolen-vahvistaminen/) (muistilistaa)
+- [Opetushallitus: Sukupuolen vahvistaminen ja todistus](https://www.oph.fi/fi/usein-kysyttya/sukupuolen-vahvistaminen-ja-todistus) (sinulla on oikeus saada koulutodistukset uusilla henkilötiedoilla varustettuna)
