@@ -1,11 +1,11 @@
 ---
 title: Henkilötunnus
 description: 
-published: 1
-date: 2023-05-17T12:53:50.803Z
+published: true
+date: 2026-06-23T12:51:05.754Z
 tags: byrokratia, transitio
 editor: markdown
-dateCreated: 2023-04-14T16:44:41.054Z
+dateCreated: 2026-03-29T10:48:25.904Z
 ---
 
 # Henkilötunnus ja sen muutokset
@@ -44,7 +44,6 @@ Tähän on listattu yleisellä tasolla virastot, palvelut sun muut jotka koskett
 - Sensijaan pankkitunnusten käyttö vahvaan tunnistautumiseen muihin palveluihin lakkaa toimimasta välittömästi.
 - Varaa  pankkiisi asiointiaika! Valtaosa pankeista ei enää palvele asiakkaita vuoronumerolla. Poikkeuksena S-Pankki jossa muutos ehdottomasti helpoin.
 - Osa pankeista (ainakin OP) ohjaa asiakkaitaan uusimaan täysin pankki- ja luottokorttinsa. Tulokset ovat kenties paremmat, mutta ota tämä huomioon aikana jolloin et pysty maksamaan fyysisellä kortilla ja ulkomaisissa verkkopalveluissa! Uuden kortin pystyy kytkemään heti Android Wallet tai Apply Pay sovellukseen, mutta esimerkiksi suoratoistopalveluiden suorat toistuvat korttimaksut ja PayPal liikenne katkeavat!
-- Pivo toimii uudelleen vasta kun pankkipalvelusi ovat täysin päivittyneet, mukaanlukien uusi fyysinen kortti jos sellaisen tilasit!
 - MobilePay saattaa jumittua pahasti henkilötunnuksen vaihtuessa. Ongelmat voi korjata jälkikäteen asiakaspalvelun kautta mutta helpointa on poistaa tili ennen muutosta ja luoda uudelleen jälkeen. Lisää tietoa: [mobilepay](/byrokratia/vahvat/mobilepay)
 
 
