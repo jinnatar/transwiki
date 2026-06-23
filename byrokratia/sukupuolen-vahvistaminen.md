@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: true
-date: 2026-06-23T12:31:09.821Z
+date: 2026-06-23T12:32:20.227Z
 tags: byrokratia, transitio, dvv
 editor: markdown
 dateCreated: 2026-03-29T10:48:37.034Z
@@ -36,6 +36,7 @@ Koska henkilötunnuksen vaihtumiseen liittyvään byrokratiaan voi kulua jonkin 
 - Osta apteekista tarvitsemiasi reseptilääkkeitä, jotta ne eivät lopu kesken prosessin aikana (reseptit vanhalla hetulla eivät toimi hetun vaihtamisen jälkeen). 
 - Käy passikuvassa, jotta saat uuden henkilöllisyystodistuksesi mahdollisimman pian. Kuvaamo lähettää kuvan poliisille ja saamaasi kuvatunnusta voidaan käyttää henkilöllisyystodistushakemuksissa puolen vuoden ajan.
 - Maksa pian erääntyvät laskut ja vuokrat sekä nosta tarpeeksi käteistä siltä varalta, jos pankkipalveluissa on tilapäisiä ongelmia henkilötunnuksen vaihtumisen yhteydessä.
+- Tiedustele pankiltasi käytäntöjä henkilötunnuksen vaihtumiseen liittyen.
 
 ### Hakemuksen vahvistaminen (2. vaihe)
 
@@ -67,7 +68,7 @@ Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttäv
 
 Tärkeimmät muistettavat:
 - Passi/henkilökortti kannattaa uusia heti, kun päätös uudesta hetusta saapuu kirjeitse/turvasähköpostilla. Mene jonottamaan poliisille dvv:n päätöksen ja vanhan passin kanssa. Passihakemusta ei voi tehdä verkossa henkilötunnuksen vaihtumisen yhteydessä.
-- Uuden henkilöllisyystodistuksen saatuasi, varaa pankkiin aika ja uusi verkkopankkitunnus ja pankkikortti.
+- Uuden henkilöllisyystodistuksen saatuasi, varaa pankkiin aika uusiaksesi verkkopankkitunnuksen ja pankkikortin.
 
 # Aiheesta muualla
 
