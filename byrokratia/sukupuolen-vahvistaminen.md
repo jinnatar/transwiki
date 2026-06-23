@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: true
-date: 2026-06-23T12:05:55.090Z
+date: 2026-06-23T12:31:09.821Z
 tags: byrokratia, transitio, dvv
 editor: markdown
 dateCreated: 2026-03-29T10:48:37.034Z
@@ -30,7 +30,7 @@ Sukupuolen vahvistamisprosessin aloittamiseksi, täytä DVV:n hakemus: https://l
 
 Hakemus ei ole sitova, vaan alustava toimenpide prosessin aloittamiseksi. Vasta 31 vuorokauden kuluttua hakemuksen tekemisestä voi sen vahvistaa, ja vasta sitten DVV määrittelee päivämäärän henkilötunnuksen vaihtumiselle.
 
-### Odotusaikana
+### Ennen vahvistamista
 
 Koska henkilötunnuksen vaihtumiseen liittyvään byrokratiaan voi kulua jonkin aikaa, kannattaa siihen valmistautua:
 - Osta apteekista tarvitsemiasi reseptilääkkeitä, jotta ne eivät lopu kesken prosessin aikana (reseptit vanhalla hetulla eivät toimi hetun vaihtamisen jälkeen). 
@@ -44,21 +44,34 @@ Hakemus tulee vahvistaa aikaisintaan 31 vuorokauden kuluttua ja viimeistään 6k
 > Laki määrittelee alarajaksi 30 vuorokautta mutta johtuen virallisen laskentatavan kiemuroista todellinen raja on 31 vuorokautta. Liian aikaisin tehtyä vahvistusta ei voida käsitellä ja vahvistus tulee tehdä uudelleen.
 {.is-danger}
 
-## Vaikutukset
-DVV:n virallinen infopaketti: [Digi ja Väestötietovirasto - Tietoa sukupuolen vahvistamisen vaikutuksista](https://dvv.fi/documents/16079645/17546503/Tietoa+sukupuolen+vahvistamisen+vaikutuksista.pdf).
+### Nimen muuttaminen
 
-Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttävien palveluiden katkeaminen henkilötunnuksen vaihtuessa.
-  - Yleistä tietoa muutoksesta, [Henkilötunnuksen muutos](/byrokratia/henkilotunnus) 
-  - Palvelukohtaista tietoa: [Palvelukohtainen byrokratia](/byrokratia)
+Halutessasi voit vaihtaa etunimesi sukupuolen vahvistamisen yhteydessä. Tässä tapauksessa nimen vaihtaminen on ilmaista, muissa tilanteissa se on maksullista. Nimen muuttaminen tehdään erillisellä DVV:n lomakkeella: https://lomakkeet.dvv.fi/lomakkeet/6821/lomake.html
 
-## Hakemuksen käsittely ja voimaantulo
+Muista merkata lomakkeeseen, että sinulla on vireillä oleva sukupuolenvahvistamisasia.
+
+### Hakemuksen käsittely ja voimaantulo
 - Kun hakemuksesi on käsitelty ottaa DVV yhteyttä joko sähköpostitse tai puhelimitse ilmoittaakseen päätöksentekopäivän.
 - Henkilötunnuksesi vaihtuu päätöksentekopäivänä.
 - Saat ilmoituksen päätöksestä pyytämälläsi tavalla kirje ja/tai sähköpostina. Sähköpostit lähetetään turvapostina jonka liitteistä käy ilmi päätös ja otteesta väestötietojärjestelmästä uusi henkilötunnuksesi.
 > Turvapostin voi avata vain yhdellä laitteella 30 päivän kuluessa vastaanottamisesta. Avaa linkki vasta laitteelta josta saat helposti liitteet talteen!
 {.is-warning}
 
+### Henkilötunnuksen vaihtuminen
+
+> DVV:n virallinen infopaketti: [Digi ja Väestötietovirasto - Tietoa sukupuolen vahvistamisen vaikutuksista](https://dvv.fi/documents/16079645/17546503/Tietoa+sukupuolen+vahvistamisen+vaikutuksista.pdf). linkki rikki :(
+> 
+Keskeisin muutos on kaikkien vahvaa tunnistautumista (pankkitunnukset) käyttävien palveluiden katkeaminen henkilötunnuksen vaihtuessa.
+  - Yleistä tietoa muutoksesta, [Henkilötunnuksen muutos](/byrokratia/henkilotunnus) 
+  - Palvelukohtaista tietoa: [Palvelukohtainen byrokratia](/byrokratia)
+
+Tärkeimmät muistettavat:
+- Passi/henkilökortti kannattaa uusia heti, kun päätös uudesta hetusta saapuu kirjeitse/turvasähköpostilla. Mene jonottamaan poliisille dvv:n päätöksen ja vanhan passin kanssa. Passihakemusta ei voi tehdä verkossa henkilötunnuksen vaihtumisen yhteydessä.
+- Uuden henkilöllisyystodistuksen saatuasi, varaa pankkiin aika ja uusi verkkopankkitunnus ja pankkikortti.
+
 # Aiheesta muualla
+
+*Käytetty myös tietolähteinä.*
 
 - [DVV: Sukupuolen vahvistaminen](https://dvv.fi/sukupuolen-vahvistaminen) (yleistieto)
 - [DVV: Sukupuolen vahvistaminen Suomessa](https://dvv.fi/sukupuolen-vahvistaminen-suomessa) (kohta-kohdalta ohjeet)
