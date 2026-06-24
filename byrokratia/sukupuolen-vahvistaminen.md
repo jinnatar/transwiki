@@ -2,7 +2,7 @@
 title: Sukupuolen vahvistaminen
 description: 
 published: true
-date: 2026-06-23T13:11:59.527Z
+date: 2026-06-24T11:20:32.294Z
 tags: byrokratia, transitio, dvv
 editor: markdown
 dateCreated: 2026-03-29T10:48:37.034Z
@@ -54,7 +54,7 @@ Muista merkata lomakkeeseen, että sinulla on vireillä oleva sukupuolenvahvista
 Lisää tietoa: [Nimenmuutos](/byrokratia/nimenmuutos)
 
 ### Hakemuksen käsittely ja voimaantulo
-- Kun hakemuksesi on käsitelty ottaa DVV yhteyttä joko sähköpostitse tai puhelimitse ilmoittaakseen päätöksentekopäivän.
+- Kun hakemuksesi on käsitelty ottaa DVV yhteyttä joko sähköpostitse tai puhelimitse ilmoittaakseen tai sopiakseen päätöksentekopäivän. 
 - Henkilötunnuksesi vaihtuu päätöksentekopäivänä.
 - Saat ilmoituksen päätöksestä pyytämälläsi tavalla kirje ja/tai sähköpostina. Sähköpostit lähetetään turvapostina jonka liitteistä käy ilmi päätös ja otteesta väestötietojärjestelmästä uusi henkilötunnuksesi.
 > Turvapostin voi avata vain yhdellä laitteella 30 päivän kuluessa vastaanottamisesta. Avaa linkki vasta laitteelta josta saat helposti liitteet talteen!
