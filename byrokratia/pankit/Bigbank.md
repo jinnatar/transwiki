@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Bigbank
 description: 
 published: true
-date: 2026-06-30T10:11:52.922Z
+date: 2026-06-30T10:12:14.864Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-30T10:11:52.922Z
